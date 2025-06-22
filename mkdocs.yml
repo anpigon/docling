@@ -1,11 +1,13 @@
 site_name: Docling
-site_url: https://docling-project.github.io/docling/
-repo_name: docling-project/docling
-repo_url: https://github.com/docling-project/docling
+site_url: https://anpigon.github.io/docling/
+repo_name: anpigon/docling
+repo_url: https://github.com/anpigon/docling
+
+docs_dir: docs-ko
 
 theme:
   name: material
-  custom_dir: docs/overrides
+  custom_dir: docs-ko/overrides
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
