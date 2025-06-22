@@ -1,7 +1,7 @@
 site_name: Docling
 site_url: https://anpigon.github.io/docling/
-repo_name: anpigon/docling
-repo_url: https://github.com/anpigon/docling
+repo_name: docling-project/docling
+repo_url: https://github.com/docling-project/docling
 
 docs_dir: docs-ko
 
