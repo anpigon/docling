@@ -44,7 +44,7 @@ LlamaIndex와 같은 생성형 AI 프레임워크와의 Docling 통합은 `BaseC
         from docling_core.transforms.chunker.hybrid_chunker import HybridChunker
         ```
 
-`HybridChunker` 구현체는 하이브리드 접근 방식을 사용하며, 문서 기반의 계층적 청킹 위에 토큰화를 고려한 세분화 작업을 적용합니다.
+`HybridChunker` 구현체는 하이브리드 접근 방식을 사용하며, 문서 기반의 [계층적](#hierarchical-chunker) 청킹 위에 토큰화를 고려한 세분화 작업을 적용합니다.
 
 더 정확히 말하면:
 
