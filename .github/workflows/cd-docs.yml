@@ -3,7 +3,7 @@ name: "Run Docs CD"
 on:
   push:
     branches:
-      - "main"
+      - "docs-ko"
 
 jobs:
   build-deploy-docs:
