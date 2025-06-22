@@ -1,6 +1,6 @@
-# Docling Document
+# Docling 문서
 
-This is an automatic generated API reference of the DoclingDocument type.
+DoclingDocument 타입의 자동 생성된 API 참조입니다.
 
 ::: docling_core.types.doc
     handler: python
