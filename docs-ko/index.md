@@ -25,7 +25,7 @@ Docling은 고급 PDF 분석을 포함한 다양한 문서 형식을 파싱하�
 * 🧬 통합적이고 표현력 있는 [DoclingDocument][docling_document] 표현 형식
 * ↪️ Markdown, HTML, 무손실 JSON 등 다양한 [내보내기 형식][supported_formats] 및 옵션 지원
 * 🔒 민감한 데이터와 폐쇄망 환경을 위한 로컬 실행 기능
-* 🤖 LangChain, LlamaIndex, Crew AI, Haystack 등 에이전트 AI를 위한 플러그 앤 플레이 방식의 [통합][integrations] 기능
+* 🤖 LangChain, LlamaIndex, Crew AI, Haystack 등 에이전트 AI를 위한 플러그 앤 플레이 [통합][integrations] 기능
 * 🔍 스캔된 PDF 및 이미지를 위한 폭넓은 OCR 지원
 * 🥚 여러 비전 언어 모델([SmolDocling](https://huggingface.co/ds4sd/SmolDocling-256M-preview)) 지원 🔥
 * 💻 간단하고 편리한 CLI
@@ -51,7 +51,7 @@ Docling은 [LF AI & Data Foundation](https://lfaidata.foundation/projects/)의 �
 
 ### IBM ❤️ Open Source AI
 
-이 프로젝트는 IBM Research Zurich의 AI for knowledge 팀에서 시작했습니다.
+이 프로젝트는 IBM Research Zurich의 AI for Knowledge 팀에서 시작했습니다.
 
 [supported_formats]: ./usage/supported_formats.md
 [docling_document]: ./concepts/docling_document.md
